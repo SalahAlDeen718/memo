@@ -200,7 +200,7 @@ class _DiaryEntryScreenState extends State<DiaryEntryScreen> {
                     hintText: 'Record your memories here...',
                     border: InputBorder.none,
                     hintStyle: TextStyle(
-                      color: Colors.greenAccent,
+                      color: Colors.grey,
                       fontSize: 16,
                     ),
                   ),
