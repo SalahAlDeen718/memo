@@ -41,7 +41,7 @@ class AppStyles {
 class AppConstants {
   static const String appName = 'Memo';
   static const String testEmail = 'test@test.com';
-  static const String testPassword = '12345678';
+  static const String testPassword = '1234567';
   static const String diaryEntriesKey = 'diary_entries';
 }
 //Todo:make EdgeInsets.symmetric method
